@@ -8,9 +8,9 @@ SuctionTop
 ****
 示例：
 -------
-![](https://github.com/Macsags/EmptiedEditText/blob/master/ohho.gif)
+![](https://github.com/Macsags/SuctionTop/blob/master/yulan.gif)
 
-[图片地址](https://github.com/Macsags/EmptiedEditText/blob/master/ohho.gif)
+[图片地址](https://github.com/Macsags/SuctionTop/blob/master/yulan.gif)
 </br>
 ****
 日志
@@ -97,20 +97,20 @@ allprojects {
         list.add(new DataBean("2", false, "张三李四", com.macsags.suctiontop.R.drawable.ic_launcher));
         list.add(new DataBean("3", false, "张三李四", com.macsags.suctiontop.R.drawable.ic_launcher));
         list.add(new DataBean("4", true, "C", com.macsags.suctiontop.R.drawable.ic_launcher_round));
-        list.add(new DataBean("5", false, "C", com.macsags.suctiontop.R.drawable.ic_launcher));
-        list.add(new DataBean("6", false, "C", com.macsags.suctiontop.R.drawable.ic_launcher));
-        list.add(new DataBean("7", false, "C", com.macsags.suctiontop.R.drawable.ic_launcher));
-        list.add(new DataBean("8", false, "C", com.macsags.suctiontop.R.drawable.ic_launcher));
-        list.add(new DataBean("9", false, "C", com.macsags.suctiontop.R.drawable.ic_launcher));
-        list.add(new DataBean("10", false, "C", com.macsags.suctiontop.R.drawable.ic_launcher));
+        list.add(new DataBean("5", false, "C", com.macsags.suctiontop.R.drawable.ic_launcher_round));
+        list.add(new DataBean("6", false, "C", com.macsags.suctiontop.R.drawable.ic_launcher_round));
+        list.add(new DataBean("7", false, "C", com.macsags.suctiontop.R.drawable.ic_launcher_round));
+        list.add(new DataBean("8", false, "C", com.macsags.suctiontop.R.drawable.ic_launcher_round));
+        list.add(new DataBean("9", false, "C", com.macsags.suctiontop.R.drawable.ic_launcher_round));
+        list.add(new DataBean("10", false, "C", com.macsags.suctiontop.R.drawable.ic_launcher_round));
         list.add(new DataBean("11", true, "J", com.macsags.suctiontop.R.drawable.ic_launcher));
         list.add(new DataBean("12", false, "J", com.macsags.suctiontop.R.drawable.ic_launcher));
         list.add(new DataBean("13", false, "J", com.macsags.suctiontop.R.drawable.ic_launcher));
         list.add(new DataBean("14", false, "J", com.macsags.suctiontop.R.drawable.ic_launcher));
         list.add(new DataBean("15", false, "J", com.macsags.suctiontop.R.drawable.ic_launcher));
         list.add(new DataBean("16", true, "K", com.macsags.suctiontop.R.drawable.ic_launcher_round));
-        list.add(new DataBean("17", false, "K", com.macsags.suctiontop.R.drawable.ic_launcher));
-        list.add(new DataBean("18", false, "K", com.macsags.suctiontop.R.drawable.ic_launcher));
+        list.add(new DataBean("17", false, "K", com.macsags.suctiontop.R.drawable.ic_launcher_round));
+        list.add(new DataBean("18", false, "K", com.macsags.suctiontop.R.drawable.ic_launcher_round));
         list.add(new DataBean("19", true, "Y", com.macsags.suctiontop.R.drawable.ic_launcher));
         list.add(new DataBean("20", false, "Y", com.macsags.suctiontop.R.drawable.ic_launcher));
         list.add(new DataBean("21", false, "Y", com.macsags.suctiontop.R.drawable.ic_launcher));
